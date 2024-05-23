@@ -44,6 +44,17 @@
     ],
     "records": [
       {
+        "CityName": "設置縣市",
+        "RegionName": "設置市區鄉鎮",
+        "Address": "設置地址",
+        "DeptNm": "管轄警局",
+        "BranchNm": "管轄分局",
+        "Longitude": "經度",
+        "Latitude": "緯度",
+        "direct": "拍攝方向",
+        "limit": "速限"
+      },
+      {
         "CityName": "連江縣",
         "RegionName": "南竿鄉",
         "Address": "介壽村47-10號前",
