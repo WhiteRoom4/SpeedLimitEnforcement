@@ -100,7 +100,7 @@
       },
       {
         "CityName": "金門縣",
-        "RegionName": "福建省金門縣金城鎮",
+        "RegionName": "金城鎮",
         "Address": "西海路金城消防分隊路段",
         "DeptNm": "金門縣警察局",
         "BranchNm": "金城分局",
@@ -166,7 +166,7 @@
       },
       {
         "CityName": "金門縣",
-        "RegionName": "福建省金門縣金湖鎮",
+        "RegionName": "金湖鎮",
         "Address": "瓊徑路小徑路段(小徑茶室附近)",
         "DeptNm": "金門縣警察局",
         "BranchNm": "金湖分局",
@@ -188,7 +188,7 @@
       },
       {
         "CityName": "金門縣",
-        "RegionName": "福建省金門縣金湖鎮",
+        "RegionName": "金湖鎮",
         "Address": "太湖路鑑潭山莊路段(鑑潭山莊附近)",
         "DeptNm": "金門縣警察局",
         "BranchNm": "金湖分局",
@@ -13828,7 +13828,7 @@
       },
       {
         "CityName": "高雄市",
-        "RegionName": "高雄市路竹區",
+        "RegionName": "路竹區",
         "Address": "高雄園區國道1號聯絡道3.2K至1.5K往西高科方向",
         "DeptNm": "保二總隊",
         "BranchNm": "保二一大隊",
@@ -13861,7 +13861,7 @@
       },
       {
         "CityName": "高雄市",
-        "RegionName": "高雄市路竹區",
+        "RegionName": "路竹區",
         "Address": "高雄園區國道1號聯絡道1.5K至3.3K往東國道方向",
         "DeptNm": "保二總隊",
         "BranchNm": "保二一大隊",
@@ -14257,7 +14257,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市板橋區",
+        "RegionName": "板橋區",
         "Address": "臺65線5K+390",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "板橋分局",
@@ -14499,7 +14499,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市中和區",
+        "RegionName": "中和區",
         "Address": "臺64線快速道路東向25.2k主線及錦和路匝道至28.2k",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "中和分局",
@@ -14532,7 +14532,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市中和區",
+        "RegionName": "中和區",
         "Address": "臺64線快速道路西向26.6k至28.2k",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "中和分局",
@@ -14620,7 +14620,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新莊區",
+        "RegionName": "新莊區",
         "Address": "中正路879號",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新莊分局",
@@ -14631,7 +14631,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新莊區",
+        "RegionName": "新莊區",
         "Address": "中正路757號前",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新莊分局",
@@ -14697,7 +14697,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新莊區",
+        "RegionName": "新莊區",
         "Address": "思源路與長青路口",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新莊分局",
@@ -14708,7 +14708,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新莊區",
+        "RegionName": "新莊區",
         "Address": "思源路370巷口",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新莊分局",
@@ -14807,7 +14807,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新店區",
+        "RegionName": "新店區",
         "Address": "新店區環河路(中央路至白馬寺)",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -14840,7 +14840,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新店區",
+        "RegionName": "新店區",
         "Address": "新店區環河路(中央路至白馬寺)",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -14983,7 +14983,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新店區",
+        "RegionName": "新店區",
         "Address": "北宜路2段348號對面",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -14994,7 +14994,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新店區",
+        "RegionName": "新店區",
         "Address": "臺9線19K至23.1K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -15005,7 +15005,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市新店區",
+        "RegionName": "新店區",
         "Address": "臺9線19K至23.1K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -15302,7 +15302,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市三峽區",
+        "RegionName": "三峽區",
         "Address": "中正路1段524號旁",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "三峽分局",
@@ -15346,7 +15346,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市三峽區",
+        "RegionName": "三峽區",
         "Address": "大義路與學林路口",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "三峽分局",
@@ -15467,7 +15467,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市淡水區",
+        "RegionName": "淡水區",
         "Address": "淡金路二段125號",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "淡水分局",
@@ -15544,7 +15544,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段12.8K至14.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15555,7 +15555,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段11.7K至12.8K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15566,7 +15566,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段12.8K至14.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15577,7 +15577,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段6.2K至11.7K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15588,7 +15588,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段11.7K至12.8K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15599,7 +15599,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市汐止區",
+        "RegionName": "汐止區",
         "Address": "汐萬路3段6.2K至11.7K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "汐止分局",
@@ -15929,7 +15929,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市土城區",
+        "RegionName": "土城區",
         "Address": "金城路1段62號",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "土城分局",
@@ -16028,7 +16028,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市五股區",
+        "RegionName": "五股區",
         "Address": "新五路2段572號",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "蘆洲分局",
@@ -16083,7 +16083,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市五股區",
+        "RegionName": "五股區",
         "Address": "成泰路4段43號前",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "蘆洲分局",
@@ -16094,7 +16094,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市泰山區",
+        "RegionName": "泰山區",
         "Address": "大科路686號前",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "林口分局",
@@ -16182,7 +16182,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市林口區",
+        "RegionName": "林口區",
         "Address": "文化三路1段249巷旁",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "林口分局",
@@ -16325,7 +16325,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市深坑區",
+        "RegionName": "深坑區",
         "Address": "106乙線文山路2段喜樂橋頭",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16358,7 +16358,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市深坑區",
+        "RegionName": "深坑區",
         "Address": "文山路1段與旺躭路45巷口",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16369,7 +16369,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市深坑區",
+        "RegionName": "深坑區",
         "Address": "文山路1段與北深路1段229巷口",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16391,7 +16391,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市石碇區",
+        "RegionName": "石碇區",
         "Address": "臺9線23.1K至26.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16424,7 +16424,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市石碇區",
+        "RegionName": "石碇區",
         "Address": "臺9線23.1K至26.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16435,7 +16435,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市石碇區",
+        "RegionName": "石碇區",
         "Address": "臺9線26.2K至32.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16468,7 +16468,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線26.2K至32.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16479,7 +16479,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線32.2K至33.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16490,7 +16490,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線32.2K至33.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16501,7 +16501,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線33.3K至37.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16512,7 +16512,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線33.3K至37.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16523,7 +16523,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線37.2K至42.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16556,7 +16556,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線37.2K至42.2K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16567,7 +16567,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線42.2K至48.4K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16589,7 +16589,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線42.2K至48.4K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16600,7 +16600,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線48.4K至56.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -16611,7 +16611,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市坪林區",
+        "RegionName": "坪林區",
         "Address": "臺9線48.4K至56.3K",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "新店分局",
@@ -17073,7 +17073,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市貢寮區",
+        "RegionName": "貢寮區",
         "Address": "臺2線112.1公里",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "瑞芳分局",
@@ -17183,7 +17183,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市萬里區",
+        "RegionName": "萬里區",
         "Address": "萬里隧道",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "金山分局",
@@ -17205,7 +17205,7 @@
       },
       {
         "CityName": "新北市",
-        "RegionName": "新北市萬里區",
+        "RegionName": "萬里區",
         "Address": "萬里隧道",
         "DeptNm": "新北市政府警察局",
         "BranchNm": "金山分局",
@@ -20230,7 +20230,7 @@
       },
       {
         "CityName": "臺南市",
-        "RegionName": "臺南市永康區",
+        "RegionName": "永康區",
         "Address": "中華路與中山南路口",
         "DeptNm": "臺南市政府警察局",
         "BranchNm": "永康分局",
@@ -20373,7 +20373,7 @@
       },
       {
         "CityName": "臺南市",
-        "RegionName": "臺南市東區",
+        "RegionName": "東區",
         "Address": "中華東路與平實路口",
         "DeptNm": "臺南市政府警察局",
         "BranchNm": "第一分局",
@@ -20912,7 +20912,7 @@
       },
       {
         "CityName": "臺南市",
-        "RegionName": "臺南市中西區",
+        "RegionName": "中西區",
         "Address": "中華西路與府前路口",
         "DeptNm": "臺南市政府警察局",
         "BranchNm": "第二分局",
@@ -20956,7 +20956,7 @@
       },
       {
         "CityName": "臺南市",
-        "RegionName": "臺南市中西區",
+        "RegionName": "中西區",
         "Address": "中山路與西華南街口",
         "DeptNm": "臺南市政府警察局",
         "BranchNm": "第二分局",
@@ -21088,7 +21088,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區文中路645號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21099,7 +21099,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區富國路379號對面",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21110,7 +21110,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區莊敬路二段路燈桿(0716800)旁",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21121,7 +21121,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區大興西路三段與正光路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21132,7 +21132,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區大興西路三段與正光路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21154,7 +21154,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區溫州街69號對面",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21165,7 +21165,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區春日路561號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21176,7 +21176,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市桃園區",
+        "RegionName": "桃園區",
         "Address": "桃園區成功路三段235號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21187,7 +21187,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "民族路六段360號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21231,7 +21231,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "中正路二段239巷口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21253,7 +21253,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "領航南路二段與新生路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21264,7 +21264,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "高鐵北路與青心路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21286,7 +21286,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "中豐北路與大圳路一段口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21297,7 +21297,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "中豐北路與大圳路一段口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21319,7 +21319,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "中壢區新生路二段421號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21352,7 +21352,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "中華路普忠路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21385,7 +21385,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "普忠路581巷前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21396,7 +21396,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市中壢區",
+        "RegionName": "中壢區",
         "Address": "晉元路180號對面",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21418,7 +21418,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "永昌路台66線路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21429,7 +21429,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "石園路327號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21451,7 +21451,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "康莊路三段632號對面（台4線34K+200處）",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21462,7 +21462,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "大溪區瑞安路一段(台4線29K+650)崁津橋前)",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21484,7 +21484,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "崎頂下坡路段",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21495,7 +21495,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "員林路一段142巷口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21506,7 +21506,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "介壽路與仁善街路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21517,7 +21517,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "大溪區月眉路1號前約120公尺處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21528,7 +21528,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "復興路二段20號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21539,7 +21539,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "大鶯路769巷口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21550,7 +21550,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "大溪區信義路永福派出所前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21561,7 +21561,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "大溪區信義路永福派出所前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21605,7 +21605,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "台七乙線9.1K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21616,7 +21616,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大溪區",
+        "RegionName": "大溪區",
         "Address": "台七乙線9.1K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21649,7 +21649,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市楊梅區",
+        "RegionName": "楊梅區",
         "Address": "台61線南下平面50.8K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21671,7 +21671,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市楊梅區",
+        "RegionName": "楊梅區",
         "Address": "中山路與大成路",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21693,7 +21693,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市楊梅區",
+        "RegionName": "楊梅區",
         "Address": "梅獅路與文化街岔路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21704,7 +21704,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市蘆竹區",
+        "RegionName": "蘆竹區",
         "Address": "大竹北路386號旁",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21726,7 +21726,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市蘆竹區",
+        "RegionName": "蘆竹區",
         "Address": "濱海路一段101號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21748,7 +21748,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市蘆竹區",
+        "RegionName": "蘆竹區",
         "Address": "富國路130號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21825,7 +21825,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市蘆竹區",
+        "RegionName": "蘆竹區",
         "Address": "八德一路與八德二路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21836,7 +21836,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "台61線29.5K(高架)",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21847,7 +21847,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "大園區臺61線29.3K",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21858,7 +21858,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "和平西路一段447號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21869,7 +21869,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "中正東路與橫湳路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21880,7 +21880,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "高鐵北路二段與領航北路四段路口前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21924,7 +21924,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "大牛稠7號（桃5線4.8K）",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21935,7 +21935,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "國際路二段與中央路路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21957,7 +21957,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市大園區",
+        "RegionName": "大園區",
         "Address": "三民路2段825號",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21968,7 +21968,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "萬壽路二段與忠孝街口前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21979,7 +21979,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "萬壽路二段1262號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -21990,7 +21990,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "忠義路一段20.5K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22001,7 +22001,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "忠義路一段20.5K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22034,7 +22034,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "忠義路一段18K+660前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22045,7 +22045,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "振興路829巷口旁",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22056,7 +22056,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "文化二路與文昌一街口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22089,7 +22089,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "文化一路與復興二路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22188,7 +22188,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龜山區",
+        "RegionName": "龜山區",
         "Address": "樂善村青山路2K",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22210,7 +22210,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市八德區",
+        "RegionName": "八德區",
         "Address": "新生路段近龍宮街36巷9弄口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22221,7 +22221,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市八德區",
+        "RegionName": "八德區",
         "Address": "中華路龍壽街口署立桃園醫院前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22243,7 +22243,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市八德區",
+        "RegionName": "八德區",
         "Address": "興豐路1176號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22254,7 +22254,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市八德區",
+        "RegionName": "八德區",
         "Address": "興豐路1176號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22287,7 +22287,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龍潭區",
+        "RegionName": "龍潭區",
         "Address": "桃園市平鎮區梅獅路二段",
         "DeptNm": "保二總隊",
         "BranchNm": "保二三大隊",
@@ -22320,7 +22320,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龍潭區",
+        "RegionName": "龍潭區",
         "Address": "聖亭路236號春源鋼鐵旁",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22331,7 +22331,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龍潭區",
+        "RegionName": "龍潭區",
         "Address": "台三線50.8K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22386,7 +22386,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龍潭區",
+        "RegionName": "龍潭區",
         "Address": "上坪1-2號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22397,7 +22397,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市龍潭區",
+        "RegionName": "龍潭區",
         "Address": "中興路九龍段104號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22430,7 +22430,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "中興路平鎮段305號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22441,7 +22441,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "中興路與南豐路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22496,7 +22496,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "中豐路一段166號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22507,7 +22507,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "平鎮區中豐路與延平路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22518,7 +22518,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "中豐路與三興路岔路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22529,7 +22529,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "金陵路與環南路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22551,7 +22551,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "平鎮區金陵路四段409號前約80公尺處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22562,7 +22562,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "快速路一段(台66線快速道路24k+160下方)",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22573,7 +22573,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市平鎮區",
+        "RegionName": "平鎮區",
         "Address": "營德路與華隆街路口前約150公尺處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22584,7 +22584,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市新屋區",
+        "RegionName": "新屋區",
         "Address": "台15線59K處",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22617,7 +22617,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市新屋區",
+        "RegionName": "新屋區",
         "Address": "中山西路三段62號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22650,7 +22650,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市觀音區",
+        "RegionName": "觀音區",
         "Address": "濱海路保生段277號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22672,7 +22672,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市觀音區",
+        "RegionName": "觀音區",
         "Address": "台66線（1.080K）與臺15線岔路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22705,7 +22705,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市觀音區",
+        "RegionName": "觀音區",
         "Address": "濱海路廣興段845號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22716,7 +22716,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市觀音區",
+        "RegionName": "觀音區",
         "Address": "成功路與忠孝路口",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
@@ -22727,7 +22727,7 @@
       },
       {
         "CityName": "桃園市",
-        "RegionName": "桃園市復興區",
+        "RegionName": "復興區",
         "Address": "台七線羅浮82號前",
         "DeptNm": "桃園市政府警察局",
         "BranchNm": "桃市警局交通大隊",
