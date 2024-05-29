@@ -1784,17 +1784,6 @@
       {
         "CityName": "新竹縣",
         "RegionName": "芎林鄉",
-        "Address": "芎林鄉富林路一段竹120線15.5K處",
-        "DeptNm": "新竹縣政府警察局",
-        "BranchNm": "橫山分局",
-        "Longitude": "0.0",
-        "Latitude": "0.0",
-        "direct": "西往東",
-        "limit": "60"
-      },
-      {
-        "CityName": "新竹縣",
-        "RegionName": "芎林鄉",
         "Address": "富林路三段、文德路口(120線10.4公里)東向",
         "DeptNm": "新竹縣政府警察局",
         "BranchNm": "橫山分局",
@@ -1817,17 +1806,6 @@
       {
         "CityName": "新竹縣",
         "RegionName": "橫山鄉",
-        "Address": "橫山鄉中豐路二段12巷口(台3線)",
-        "DeptNm": "新竹縣政府警察局",
-        "BranchNm": "橫山分局",
-        "Longitude": "0.0",
-        "Latitude": "0.0",
-        "direct": "西往東",
-        "limit": "60"
-      },
-      {
-        "CityName": "新竹縣",
-        "RegionName": "橫山鄉",
         "Address": "中豐路一段、站前街口(台3線72.9公里)南向",
         "DeptNm": "新竹縣政府警察局",
         "BranchNm": "橫山分局",
@@ -1835,17 +1813,6 @@
         "Latitude": "24.720446",
         "direct": "南北雙向",
         "limit": "60"
-      },
-      {
-        "CityName": "新竹縣",
-        "RegionName": "寶山鄉",
-        "Address": "寶山鄉寶山路二段竹83線0km+800",
-        "DeptNm": "新竹縣政府警察局",
-        "BranchNm": "竹東分局",
-        "Longitude": "0.0",
-        "Latitude": "0.0",
-        "direct": "南往北",
-        "limit": "50"
       },
       {
         "CityName": "新竹縣",
